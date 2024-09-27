@@ -1,0 +1,13 @@
+blindnessDuration: 40
+healthSteal: 0.25
+bleedDuration: 20
+bleedAmplifier: 5
+fireDuration: 50
+lightningOnAttack: true
+lightningRightClick: true
+lightningCooldown: 5
+teleportCooldown: 5
+explosiveCooldown: 10
+explosiveRadius: 1
+freezeDuration: 20
+confusionDuration: 80
